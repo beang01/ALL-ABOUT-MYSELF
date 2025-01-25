@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All About Myself</title>
+</head>
+<body>
+    <header id="top">
+        <h1 style="text-align: center; color: green;">All About Myself</h1>
+        <nav>
+            <ul>
+                <li><a href="All About Myself.html">Home</a></li>
+                <li><a href="#about">About My Self</a></li>
+                <li><a href="#LifeStory">My LifeStory</a></li>
+                <li><a href="#Hobbies">Hobbies</a></li>
+                <li><a href="#Favorites">Favorites</a></li>
+                <li><a href="#Friends">Friends</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <hr>
+
+    <main>
+        <article id="about">
+            <section id="My_Life">
+                <h2>About My life</h2>
+                <figure>
+                    <img src="images/Adulthood.png" alt="Adulthood" height="200">
+                    <figcaption style="font-weight: bold;">
+                       Biograhy
+                    </figcaption>
+                    <p>
+                        Bea Boniel
+                        <br>09510368125<br>
+                        
+                            <a href="young bes @yahoo.com">Bea Boniel@yahoo.com</a><br>
+                        <br>Bea Boniel is currently a 2nd year collage student taking up BSCS Saint Micheal Collage of Caraga.<br>
+                        I was Born on the 8th Of February year 2004 and currently Living in D2 Lawis Sta.Ana Nasipit Agusan Del Norte.<br>
+                        I took my ELementary level at SAES and Finished my Junior High School and Senior High School at NNHS <br> School
+                        .I am the 2nd to the Youngest among the 4 Children of Mr.Mrs Boniel.<br>
+                    </p>
+                </figure>
+
+            </section>
+
+            <section id="LifeStory">
+                <h2>My LifeStory</h2>
+                <figure>
+                    <img src="images/Childhood.png" alt="Childhood" height="250">
+                    <figcaption style="font-weight: bold;">
+                        Childhood
+                    </figcaption>
+                    <p>
+                    A Childhood Story of mine was very Happy because  of my friends back then playing outside and making core memories that I will bring forever
+
+                    <img src="images/Teenage.png" alt="Teenage" height="250">
+                    <figcaption style="font-weight: bold;">
+                        Teenagehood
+                    </figcaption>
+                    <p>
+                        My Teenage Story is one of the best exciting moment wherein you are at the stage of curiosity and exploring the world<br>
+                    </p>
+
+                    <img src="images/Adulthood.png" alt="Store Owner" height="250">
+                    <figcaption style="font-weight: bold;">
+                       Adulthood
+                    </figcaption>
+                    <p>
+                        My Adulthood Story is one of the mst hardest part of life specially when your doing in your own path a lot of responsibilities and decisions in life <br>
+                       
+                    </p>
+
+                </figure>
+            </section>
+        </article>
+
+        <hr>
+
+        <article id="Hobbies">
+            <section>
+                <h2>Hobbies</h2>
+                <figure>
+                    
+                    <figcaption style="font-weight: bold;">Indoor Hobbies</figcaption>
+                    <p>
+                        <img src="images/Computer.jpg" alt="Store Owner" height="250">
+                        <br>Watching Anime<br>
+                        Playing Games<br>
+                    </p>
+
+                    <figcaption style="font-weight: bold;">Outdoor Hobbies</figcaption>
+                    <p>
+                        <img src="images/Travel.jpg" alt="Store Owner" height="250">
+                        <br>Travel<br>
+                        Swimming<br>
+                    </p>
+
+                </figure>
+            </section>
+        </article>
+
+        <hr>
+
+        <article id="Favorites">
+            <section>
+                <h2>Favorites</h2>
+                <figure>
+                    
+                    <figcaption style="font-weight: bold;">Food</figcaption>
+                    <p>
+                        <img src="images/Bicol.jpg" alt="Store Owner" height="250">
+                        <br>Bicol Express<br>
+                        Rice<br>
+                        Fruits<br>
+                    </p>
+
+                    <figcaption style="font-weight: bold;">Games</figcaption>
+                    <p>
+                        <img src="images/Crossfire.jpg" alt="Store Owner" height="250">
+                        <br>Crossfire<br>
+                        Roblox<br>
+                        Mobile Legends<br>
+                    </p>
+
+                    <figcaption style="font-weight: bold;">Artist</figcaption>
+                    <p>
+                        <img src="images/bruno.jpg" alt="Store Owner" height="250">
+                        <br>Charlie puth<br>
+                        Leonardo da vinci<br>
+                        Bruno Mars<br>
+                    </p>
+                    <figcaption style="font-weight: bold;">color</figcaption>
+                    <p>
+                        <img src="images/blue.avif" alt="Store Owner" height="250">
+                        <br>Red,Blue,green<br>
+                    </p>
+
+                </figure>
+            </section>
+        </article>
+
+        <hr>
+
+        <article id="Friends">
+            <section>
+                <h2>Friends</h2>
+                <figure>
+                    
+                    <figcaption style="font-weight: bold;">Close Friends</figcaption>
+                    <p>
+                        <img src="images/Travel.jpg" alt="Store Owner" height="100">
+                        <img src="images/Ikyung.jpg" alt="Store Owner" height="100">
+                        <img src="images/bikoy.jpg" alt="Store Owner" height="100">
+                        <img src="images/jomari.jpg" alt="Store Owner" height="100">
+                        <br>Rio barcelon<br>
+                        Raniel Sarsaba<br>
+                        Jomari Bentonio<br>
+                        Fritchard malco<br>
+                        Adrian Maglanoc<br>
+                    </p>
+
+                    <figcaption style="font-weight: bold;">Collage Friends</figcaption>
+                    <p>
+                        <img src="images/john.jpg" alt="Store Owner" height="100">
+                        <img src="images/ace.jpg" alt="Store Owner" height="100">
+                        <img src="images/sindo.jpg" alt="Store Owner" height="100">
+                        <img src="images/rhaz.jpg" alt="Store Owner" height="100">
+                        <br>john paul Sevilla<br>
+                        Ace Edizon Abad<br>
+                        Aijalon Sindo<br>
+                        Rhassab Subsuban<br>
+                        All my Classmates
+                    </p>
+
+                </figure>
+            </section>
+        </article>
+
+    <hr>
+
+    <footer style="text-align: center;"">
+        <p  style="font-weight: bold;">All Rights Reserved &copy; BEA BONIEL 2025</p>
+        <a href="#top" style="text-align: center;">Back to Top</a>
+    </footer>
+</body>
+</html>
